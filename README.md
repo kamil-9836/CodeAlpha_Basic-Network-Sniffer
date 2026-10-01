@@ -12,3 +12,4 @@ A simple network packet sniffer built using Python and the Scapy library on Wind
 2. Run the script:
    ```bash
    python sniffer.py
+3. Open a web browser or generate network traffic to see source/destination IPs, protocols, and payloads scroll live in your terminal
